@@ -1,6 +1,6 @@
 # SuperTux Advance website
 
-The SuperTux Advance website is automatically generated from this repository's content, using Jekyll. It's created with the [Modernist Jekyll theme](https://github.com/pages-themes/modernist), which was modified to fit the desired style.
+The [SuperTux Advance website](https://supertuxadvance.github.io/) is automatically generated from this repository's content, using Jekyll. It's created with the [Modernist Jekyll theme](https://github.com/pages-themes/modernist), which was modified to fit the desired style.
 
 The website aims to be a helpful resource for:
 
