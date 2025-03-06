@@ -17,6 +17,7 @@ If you want to modify STA or Brux's source code, follow the steps below.
 
 * SuperTux Advance - [https://codeberg.org/KelvinShadewing/supertux-advance](https://codeberg.org/KelvinShadewing/supertux-advance){:target="_blank"}
 * Brux GDK - [https://codeberg.org/KelvinShadewing/brux-gdk](https://codeberg.org/KelvinShadewing/brux-gdk){:target="_blank"}
+* SuperTux Advance Website (i.e., this website) - [https://github.com/supertuxadvance/supertuxadvance.github.io]
 
 ## Translation contribution
 
